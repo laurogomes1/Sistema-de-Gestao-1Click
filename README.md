@@ -1,66 +1,38 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    <h2 align="center">Gestão de Vendas</h2>
+    <p align="center">Desenvolvido pela 1ClickMarketing Digital</p>
 </p>
 
-## About Laravel
+<p align="center">
+    <!-- Mantenha badges relevantes aqui. Se você tiver integração contínua, testes, etc., inclua esses badges. Por agora, mantemos um de versão para representar a versão atual -->
+    <img src="https://img.shields.io/badge/version-0.2-blue.svg" alt="Versão 0.2">
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Sobre o Gestão de Vendas
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+O Gestão de Vendas é um sistema desenvolvido para auxiliar empresas na administração e análise de suas vendas. Com uma interface intuitiva e recursos robustos, ele oferece:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Cálculo automático de impostos.
+- Análise e determinação de margens de lucro.
+- Previsão e tendências de vendas.
+- Análises comerciais avançadas e insights valiosos.
 
-## Learning Laravel
+Esse projeto foi concebido com o objetivo de otimizar processos comerciais e proporcionar tomadas de decisão mais informadas para empresas.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Recursos
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- **Dashboard Intuitivo**: Tenha uma visão clara e objetiva de todas as suas vendas, lucros e tendências.
+- **Cálculo Automatizado**: Deixe o sistema cuidar das complexidades dos cálculos de impostos e margens de lucro.
+- **Análises Comerciais**: Descubra insights valiosos sobre seus produtos mais vendidos, períodos de pico de venda e muito mais.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Contribuindo
 
-## Laravel Sponsors
+Agradecemos o seu interesse em contribuir para o Gestão de Vendas! Por enquanto, as contribuições estão fechadas enquanto aprimoramos a base do projeto.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Segurança
 
-### Premium Partners
+Se descobrir uma vulnerabilidade de segurança dentro deste projeto, por favor, envie um e-mail para [laurogomes1@gmail.com](mailto:laurogomes1@gmail.com). Todas as vulnerabilidades de segurança serão tratadas prontamente.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## Licença
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+O software Gestão de Vendas é de propriedade da 1ClickMarketing Digital. Todos os direitos reservados. Uso não autorizado deste software é estritamente proibido.
